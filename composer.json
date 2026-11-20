@@ -1,5 +1,5 @@
 {
-  "name": "badasswp/addon-for-post-meta-translation-using-deepl",
+  "name": "aw-ng/addon-for-post-meta-translation-using-deepl",
   "description": "Translate post meta data when using DeepL translate.",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
